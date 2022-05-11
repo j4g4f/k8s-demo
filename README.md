@@ -4,7 +4,7 @@
 
 Since this is my first time installing k8s on a Macbook (or anywhere other than a trial of Rancher), I decided on minikube.  The two main decision criteria I had were:
 
-1.  It seems to be very wildly used.
+1.  It seems to be very widely used.
 2.  As a project, it identifies itself as an ideal candidate for learning k8s.
 
 ### Installation
